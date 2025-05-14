@@ -19,9 +19,9 @@ Write a C program to convert a 23.65 into 25 using pointer
       return 0;
   }
 ## OUTPUT:
- 	![image](https://github.com/user-attachments/assets/301553d9-cd0a-40a3-963f-36931f52b011)
 
 
+ 	![image](https://github.com/user-attachments/assets/ea0ca16e-9bd7-4a19-9777-cd54eeff216a)
 
 
 
